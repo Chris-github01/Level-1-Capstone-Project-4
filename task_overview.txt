@@ -1,0 +1,8 @@
+Tasks Overview Statistics
+
+Total tasks recorded - 14
+Total tasks complete - 5
+Total tasks incomplete - 9
+Total tasks incomplete and overdue -  1
+Tasks percentage incomplete - 64%
+Tasks percentage overdue - 7%%
