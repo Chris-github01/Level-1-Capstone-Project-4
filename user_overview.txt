@@ -1,0 +1,69 @@
+
+User Overview Statistics
+
+Total number of users is: 8
+Total number of tasks is: 14
+
+Admin
+Tasks complete: 1
+Tasks incomplete: 1
+Total tasks: 2
+Percentage tasks complete: 50%
+Percentage tasks incomplete: 50%
+Percentage tasks incomplete and overdue: 0%
+
+Chris
+Tasks complete: 2
+Tasks incomplete: 2
+Total tasks: 4
+Percentage tasks complete: 50%
+Percentage tasks incomplete: 50%
+Percentage tasks incomplete and overdue: 0%
+
+William
+Tasks complete: 1
+Tasks incomplete: 1
+Total tasks: 2
+Percentage tasks complete: 50%
+Percentage tasks incomplete: 50%
+Percentage tasks incomplete and overdue: 0%
+
+Edward
+Tasks complete: 1
+Tasks incomplete: 2
+Total tasks: 3
+Percentage tasks complete: 33%
+Percentage tasks incomplete: 66%
+Percentage tasks incomplete and overdue: 0%
+
+CK
+Tasks complete: 0
+Tasks incomplete: 1
+Total tasks: 1
+Percentage tasks complete: 0%
+Percentage tasks incomplete: 100%
+Percentage tasks incomplete and overdue: 100%
+
+Kelvin
+Tasks complete: 1
+Tasks incomplete: 1
+Total tasks: 2
+Percentage tasks complete: 50%
+Percentage tasks incomplete: 50%
+Percentage tasks incomplete and overdue: 0%
+
+Ryan
+Tasks complete: 1
+Tasks incomplete: 1
+Total tasks: 2
+Percentage tasks complete: 50%
+Percentage tasks incomplete: 50%
+Percentage tasks incomplete and overdue: 0%
+
+Tom
+Tasks complete: 0
+Tasks incomplete: 0
+Total tasks: 0
+Percentage tasks complete: 0%
+Percentage tasks incomplete: 0%
+Percentage tasks incomplete and overdue: 0%
