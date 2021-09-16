@@ -64,5 +64,5 @@
   - Display user statistics in text file
   - Display user statistics on screen
   - Enter '-1' to return to main menu
-## *7. Exit*
+### *7. Exit*
 * The program will terminate
